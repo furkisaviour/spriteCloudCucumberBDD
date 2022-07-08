@@ -8,9 +8,11 @@ Main Project
 3.https://app.calliope.pro/reports/136847/public/1596f54a-d34c-4665-b022-4ca0c03b0d63
 
 4.Advantages of calliope.pro in terms of use :
+
 We can easily view all my tests through the Overview and 
 BA , developer and tester can work together efficiently. Test results can be delivered to the customer quickly.
 Disadvantage of calliope.pro
+
 QA engineers can choose html to easily share their reports with other applications.But unfortunately this format is not supported
 
 5.When writing test scenarios . I determine possible actions to objects.I tied to a minimum of one Requirement or User Story.I avoided creating overly complex Test Scenarios
@@ -24,4 +26,5 @@ I have to develop test cases. For now, I need to use my framework, which offers 
 See you at the next stage
 
 Respectfually
+
 Furkan KAYA
